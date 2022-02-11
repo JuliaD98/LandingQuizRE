@@ -1,0 +1,132 @@
+/* Adding fonts */
+
+/* montserrat-alternates-regular - latin */
+@font-face {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/montserrat-alternates-v16-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/montserrat-alternates-v16-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* montserrat-alternates-700 - latin */
+  @font-face {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../fonts/montserrat-alternates-v16-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/montserrat-alternates-v16-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+
+  .frame1{
+    background: #F7F6FF;
+    width: 375px;
+    height: 667px;
+    box-sizing: border-box;
+  }
+
+  .elipse{
+    position: absolute;
+    margin-left: 183px;
+    margin-top: 329px;
+    margin-right: 183px;
+    margin-bottom: 329px;
+    width: 10px;
+    height: 10px;
+
+
+  }
+
+  .frame3{
+    background: #F7F6FF;
+    width: 375px;
+    height: 667px;
+    box-sizing: border-box;
+  }
+
+  .frame5{
+    background: #F7F6FF;
+    width: 375px;
+    height: 667px;
+    box-sizing: border-box;
+  }
+
+  .headingText5{
+    position: absolute;
+    margin-left: 14px;
+    margin-top: 116px;
+    margin-right: 10px;
+    margin-bottom: 496px;
+    font-size: 22px;
+    color: #1A1A1C;
+    font-family: 'Montserrat Alternates';
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .logoFrame4{
+      position: absolute;
+      margin-left: 107px;
+      margin-top: 32px;
+      margin-right: 103px;
+      margin-bottom: 602px;
+      width: 169px;
+      height: 33px;
+
+  }
+
+  .subheadingF5{
+    position: absolute;
+    margin-left: 84px;
+    margin-top: 71px;
+    margin-right: 80px;
+    margin-bottom: 584px;
+    font-size: 9px;
+    color: #1A1A1C;
+    font-family: 'Montserrat Alternates';
+  }
+
+  .manFrame5{
+    position: absolute;
+    margin-left: 27px;
+    margin-top: 262px;
+    margin-right: 137px;
+    margin-bottom: 37px;
+    width: 490px;
+    height: 367px;
+  }
+
+  .frame5Text{
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 444px;
+    margin-right: 100px;
+    margin-bottom: 127px;
+    font-size: 16px;
+    color: #1A1A1C;
+    font-family: 'Montserrat Alternates';
+  }
+
+
+  .redRect{
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 631px;
+    margin-bottom: 0px;
+    width: 374px;
+    height: 36px;
+  }
+
+  .lilSubheadingF5{
+    position: absolute;
+    font-size: 16px;
+    color: #1A1A1C;
+    font-family: 'Montserrat Alternates';
+    margin-left: 59px;
+    margin-right: 137px;
+    margin-top: 190px;
+    margin-bottom: 448px;
+  }
